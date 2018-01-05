@@ -1,0 +1,18 @@
+# links section data
+- last_name: Karan
+  first_name: Gupta
+  desc: Senior Manager <br/> Engineering Department <br /> Mojo Networks
+  website: https://www.linkedin.com/in/karangpta/
+  email:  karan.gupta@mojonetworks.com
+
+- last_name: Sandip
+  first_name: Chakraborty 
+  desc: Assistant Professor <br/> Department of CSE <br/>  Indian Institute of Technology  Kharagpur 
+  website: "http://cse.iitkgp.ac.in/~sandipc/"
+  email:  sandipc@cse.iitkgp.ernet.in
+
+- last_name: Ferdous
+  first_name: Ahmed
+  desc: Head of Department <br/>  Computer Science Engineering <br/>   Indian Institute of Information Technology Guwahati
+  website: http://www.iiitg.ac.in/faculty/ferdous/
+  email:  ferdousa@gmail.com

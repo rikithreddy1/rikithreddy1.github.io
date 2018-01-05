@@ -1,0 +1,59 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: IIT Kharagpur
+    i18n: company_a
+  desc:
+    detail: Worked as an Intern, on Reverse Engineering Youtube’s algorithm for Dynamic Adaptive Streaming and was graded outstanding for the work. The work was mainly concentrated on finding out how YouTube’s algorithm differed from an open source Dynamic Adaptive Streaming Application dash.js by analyzing the behavior pattern of HTTP parameters of Youtube.
+    i18n: company_a_desc
+  date:
+    detail: May 2016 to July 2016
+    i18n: company_a_date
+  job:
+    detail: Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: 3N Technologies
+    i18n: company_a
+  desc:
+    detail: Worked as a web developer for various projects carried out by the startup.
+    i18n: company_a_desc
+  date:
+    detail: May 2016 to July 2016
+    i18n: company_a_date
+  job:
+    detail: Associate developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Mojo Networks
+    i18n: company_b
+  desc:
+    detail: Worked on the topic Quantifying Application Experience for VoIP Apps using Network Parameters, designed variousexperiments to validate the hypothesis, performed extensive literature survey for measuring QoE for video streaming and also played a role in the weekly brainstorming sessions.
+    i18n: company_b_desc
+  date:
+    detail: May 2017 to July 2017
+    i18n: company_b_date
+  job:
+    detail: Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: CVB Lab IIIT Guwahati
+    i18n: company_b
+  desc:
+    detail: Currently working on Ocular based biometric system.
+    i18n: company_b_desc
+  date:
+    detail: July 2017 to Present
+    i18n: company_b_date
+  job:
+    detail: Research Fellow
+    i18n: company_b_job
+  icon: fa-plus-square
