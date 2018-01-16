@@ -2,8 +2,58 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+
+
+
+
+- name: Ocular Biometrics
+  i18n: Ocular Biometrics
+  url: 
+  img: /static/assets/img/landing/iris.jpg
+  desc: Considering drawbacks in current generation authentication mechanisms for low compute devices we devise a framework for authenticating a user based on the users Iris. The work involves majorly two challenges extracting the iris from a given image and matching the iris for authentication. Major work regarding iris extraction is currently addressed.
+
+
+
+
+- name: Botnet Detection
+  i18n: 
+  url: 
+  img: /static/assets/img/landing/bot.jpg
+  desc: The project emphasizes in exploring machine learning paradigms for botnet Detection. Botnets represent networks of computers compromised with sophisticated bot malware that puts them under the control of a remote attacker. The main goal is to classify botnet traffic with high accuracy
+
+
+- name: IoT Based Smart Home App
+  i18n: 
+  url:  https://github.com/rikithreddy/HomeAutomationSystem
+  img: /static/assets/img/landing/iot.jpg
+  desc: We design a Simulated Smart Home environment where appliances can be controlled using a dashboard. The project sets to increase the understanding of the COAP protocol and varied interactions of various smart home appliances with the user and themselfs. 
+
+
+- name: School Management System
+  i18n: School Management System
+  url: https://github.com/rikithreddy/SchoolMS
+  img: /static/assets/img/landing/school.jpg
+  desc: The project emphasizes in exploring machine learning paradigms for botnet Detection. Botnets represent networks of computers compromised with sophisticated bot malware that puts them under the control of a remote attacker. The main goal is to classify botnet traffic with high accuracy.
+
+
+
+
+- name: Crowd Sourcing App for Gaze Detection
+  i18n: Crowd Sourcing App for Gaze Detection
+  url: 
+  img: /static/assets/img/landing/gaze.jpg
+  desc: The Projects aims to collect data and annotations for the respective data with implicit crowdsourcing. The application is tested for the purpose of collecting eye tracking data. A small interactive game is deployed using javascript where images are captured from the user as he plays taking in the point of gaze co-ordinates, while asynchronously in background fetching data as he plays. The application is programmed using PHP, JS and is back ended by MYSQL database.
+
+
+- name: Academic Section Automation IIITG
+  i18n: 
+  url: 
+  img: /static/assets/img/landing/IIIT.png
+  desc: The Project aims at the study of automation of Academic Section of IIT Guwahati, to design an efficient automated system for the academic section of IIITG. Software Designed is web based multi-tier architecture. It is designed to provide paperless functioning of various processes done by academic section like course registration, minor registration, grade management, course management etc. Software is comprehensive, covering most of the processes of academic section. The application uses PHP, JS, HTML, CSS and MYSQL database. Group of 4.
+
+
+- name: Feed Back Automation System IIITG
+  i18n: 
+  url: 
+  img: /static/assets/img/landing/IIIT.png
+  desc: The Project aims to design an efficient automated system for the manual feedback system of IIITG. Software Designed is web based multi-tier architecture. It is designed to provide paperless functioning of various processes done manually like feedback for subjects, faculty etc. and also provide features for analysis of the feedbacks statistically for various purposes and provide admin an overview of every information regarding the feedbacks. The application uses PHP, JS, HTML, CSS and MYSQL database. Group of 4
